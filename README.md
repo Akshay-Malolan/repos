@@ -8,3 +8,5 @@ The Projects:
   v) Rock paper Scissors with GUI
   vi) Calculator With GUI
   vii) To Do List with GUI
+  viii) Simple and Compound Interest Calculator with GUI
+  ix) Wave Plotter for Wave Function
